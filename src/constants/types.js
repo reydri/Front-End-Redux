@@ -1,0 +1,11 @@
+export const ADD_TODO = 'ADD_TODO';
+export const REMOVE_TODO = 'REMOVE_TODO';
+
+export const ADD_TODO_UR = 'ADD_TODO_UR';
+export const REMOVE_TODO_UR = 'REMOVE_TODO_UR';
+export const UNDO_TODO_UR = 'UNDO_TODO_UR';
+export const REDO_TODO_UR = 'REDO_TODO_UR';
+
+export const LOADING_EMPLOYEES = 'LOADING_EMPLOYEES';
+export const LIST_EMPLOYEES_FETCHED = 'LIST_EMPLOYEES_FETCHED';
+export const ERROR_LIST_EMPLOYEES = 'ERROR_LIST_EMPLOYEES';
